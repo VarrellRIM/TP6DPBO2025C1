@@ -176,7 +176,7 @@ startButton.addActionListener(new ActionListener() {
 });
 ```
 ## Dokumentasi Program
-
+https://github.com/user-attachments/assets/077eba47-31ca-4c31-ad6c-e662f42621e2
 
 ## Catatan Implementasi
 - Game menggunakan Java Swing untuk rendering grafis
